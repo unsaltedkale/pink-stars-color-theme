@@ -1,0 +1,21 @@
+{
+  "name": "pink-stars",
+  "displayName": "Pink Stars",
+  "description": "A pink VS Code Color Theme based off the Pink Stars Firefox Theme by berryanne.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Stars",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pink Stars-color-theme.json"
+      }
+    ]
+  }
+}
