@@ -3,6 +3,7 @@
   "displayName": "Pink Stars",
   "description": "A pink VS Code Color Theme based off the Pink Stars Firefox Theme by berryanne.",
   "version": "0.0.1",
+  "publisher": "HestiasWorkshop",
   "engines": {
     "vscode": "^1.101.0"
   },
